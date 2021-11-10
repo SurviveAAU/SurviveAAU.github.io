@@ -28,10 +28,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### 手册创建初衷
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SurviveAAU/SurviveAAU.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 手册主要内容
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+目前主要分为两篇
+1. 立志篇
+   初始阶段主要仿照<上海交通大学生存手册>的架构
+2. 去向篇
+   暂定分为五大类，保研，留学，考研，考公，就业。每个分支再向下细分为比赛，科研，课程，实习。

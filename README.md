@@ -4,15 +4,9 @@ You can use the [editor on GitHub](https://github.com/SurviveAAU/SurviveAAU.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### 手册创建初衷
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SurviveAAU/SurviveAAU.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<安徽农业大学生存生存>是我一直想做的事情，但是由于四年级之前有众多事情缠身，始终没有开始这个idea。直到某天，看到<上海交通大学生存手册>，幡然醒悟，应该立即行动。本手册创建的初衷是，每届学生中都会有一部分想要去保研，出国，考研，考公，就业等等。而往届学生中不乏有这些想法的优秀同学，而且他们在这条路已经走通了，但是由于各种各样的因素，导致这些宝贵的经验没有在学生中广泛传播，甚至消失，这无疑是让人十分痛心的。因此，借此机会建立一个这样的手册，传播经验与想法，打破信息壁垒。初始建立手册阶段模仿<上海交通大学生存手册>架构，然后在不断更迭中建立与安徽农业大学情况相符的手册。
 
 ### 手册主要内容
 
